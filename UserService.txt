@@ -1,2 +1,4 @@
 This is the user data.
 processing the user data
+
+Creating user avatar which is fully real.
